@@ -1,1 +1,1 @@
-# Patika
+# Patika ödevleri
